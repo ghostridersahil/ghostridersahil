@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Sahil aggarwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sahil Aggarwal</h1>
+<h3 align="center">🚀 Crispy Code Weaver | Interactive Machine Learning Maestro 👨‍💻</h3>
 
 <img align="right" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/safam.7" target="blank"><img src="https://img.shields.io/twitter/follow/safam_7?logo=twitter&style=for-the-badge" alt="safam_7" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **DEEP LEARNING**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **[MACHINE LEARNING, DATA VISUALIZATION, FRONT-END-DEVELOPER ]**
 
 - 📫 How to reach me **sahilaggarwal779@gmail.com**
 
