@@ -1,8 +1,8 @@
-<p>![MasterHead](https://i.pinimg.com/originals/4a/90/9b/4a909b1ab71a2956800d8ceedc3ba99a.gif)</p>
+.............![MasterHead](https://i.pinimg.com/originals/4a/90/9b/4a909b1ab71a2956800d8ceedc3ba99a.gif)...............
 <h1 align="center">Hi 👋, I'm Sahil Aggarwal</h1>
 <h3 align="center">🚀 Crispy Code Weaver | Interactive Machine Learning Maestro 👨‍💻</h3>
 
-<img align="right" width="400" src="[https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif](http://roboticswizards.com/AI/img/acquire.gif)">
+<img align="right" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif](http://roboticswizards.com/AI/img/acquire.gif">
 
 
 
